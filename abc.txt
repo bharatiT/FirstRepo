@@ -2,3 +2,6 @@ Welcome to git
 
 
 Hi In dev branch
+class A
+{
+}
